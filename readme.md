@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Jose Francisco Perez**
+**Jose Francisco Perez**, Larry Plotter Lover
